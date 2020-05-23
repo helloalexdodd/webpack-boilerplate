@@ -18,7 +18,7 @@ module.exports = Merge(CommonConfig, {
 			minify: true,
 			hash: true,
 			scriptLoading: 'defer',
-			title: 'React App',
+			title: 'A Fresh Webpack Boilerplate',
 		}),
 	],
 	optimization: {

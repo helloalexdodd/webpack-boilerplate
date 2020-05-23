@@ -13,7 +13,7 @@ module.exports = Merge(CommonConfig, {
 		new MiniCssExtractPlugin({ filename: 'styles.css' }),
 		new HtmlPlugin({
 			template: './public/index.html',
-			title: 'React App',
+			title: 'A Fresh Webpack Boilerplate',
 		}),
 	],
 });
